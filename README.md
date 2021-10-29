@@ -13,19 +13,19 @@ Sem V <br>
 3. Linear Regression from Scratch
 4. Linear Regression - Different Models and Interpretation
 5.  <br>
-<p>&emsp;   (a) Logistic Regression </p><br>
-<p>&emsp;   (b) Regularized Linear Regression </p><br>
-<p>&emsp;   (c) Regularized Logistic Regression </p><br>
+<p>&emsp;    (a) Logistic Regression </p>
+<p>&emsp;    (b) Regularized Linear Regression </p>
+<p>&emsp;    (c) Regularized Logistic Regression </p>
 6. Support Vector Machines - Linear
 7. Support Vector Machines - Non Linear + cross validation
 8. Decision Tree Classification
 9.   <br>
-<p>&emsp;   (a) Ensemble Algorithms - bagging, boosting, voting </p><br>
-<p>&emsp;   (b) Ensemble Algorithms - sklearn API examples </p><br>
+<p>&emsp;    (a) Ensemble Algorithms - bagging, boosting, voting </p>
+<p>&emsp;    (b) Ensemble Algorithms - sklearn API examples </p>
 10. XGBoost Optimizations
 11.  <br>
-<p>&emsp;    (a) PCA Image Reconstruction and such </p><br>
-<p>&emsp;    (b) Segmentation </p><br>
+<p>&emsp;    (a) PCA Image Reconstruction and such </p>
+<p>&emsp;    (b) Segmentation </p>
 
 
 ### Class Submissions :
