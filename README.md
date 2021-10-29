@@ -1,9 +1,9 @@
 # Machine-Learning Practicals
 
-Aryaman Gautam
-J001
-B.Tech Data Science
-Sem V
+Aryaman Gautam <br>
+J001 <br>
+B.Tech Data Science <br>
+Sem V <br>
 
 ### Class Experiments :
 
