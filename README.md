@@ -28,7 +28,7 @@ Sem V <br>
     (b) Segmentation
 
 
-### class sumissions :
+### Class Submissions :
 
 1. Hackerank 30 days of code
 2. Numpy Basics
