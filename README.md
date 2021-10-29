@@ -16,13 +16,13 @@ Sem V <br>
 <p>&emsp;    (a) Logistic Regression </p>
 <p>&emsp;    (b) Regularized Linear Regression </p>
 <p>&emsp;    (c) Regularized Logistic Regression </p>
-6. Support Vector Machines - Linear
-7. Support Vector Machines - Non Linear + cross validation
-8. Decision Tree Classification
+6. Support Vector Machines - Linear <br>
+7. Support Vector Machines - Non Linear + cross validation <br>
+8. Decision Tree Classification <br>
 9.   <br>
 <p>&emsp;    (a) Ensemble Algorithms - bagging, boosting, voting </p>
 <p>&emsp;    (b) Ensemble Algorithms - sklearn API examples </p>
-10. XGBoost Optimizations
+10. XGBoost Optimizations <br>
 11.  <br>
 <p>&emsp;    (a) PCA Image Reconstruction and such </p>
 <p>&emsp;    (b) Segmentation </p>
