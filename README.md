@@ -12,20 +12,20 @@ Sem V <br>
 2. End to End ML Project
 3. Linear Regression from Scratch
 4. Linear Regression - Different Models and Interpretation
-5. 
-   (a) Logistic Regression
-   (b) Regularized Linear Regression
-   (c) Regularized Logistic Regression
+5.  <br>
+   (a) Logistic Regression <br>
+   (b) Regularized Linear Regression <br>
+   (c) Regularized Logistic Regression <br>
 6. Support Vector Machines - Linear
 7. Support Vector Machines - Non Linear + cross validation
 8. Decision Tree Classification
-9.  
-   (a) Ensemble Algorithms - bagging, boosting, voting
-   (b) Ensemble Algorithms - sklearn API examples
+9.   <br>
+   (a) Ensemble Algorithms - bagging, boosting, voting <br>
+   (b) Ensemble Algorithms - sklearn API examples <br>
 10. XGBoost Optimizations
-11. 
-    (a) PCA Image Reconstruction and such
-    (b) Segmentation
+11.  <br>
+    (a) PCA Image Reconstruction and such <br>
+    (b) Segmentation <br>
 
 
 ### Class Submissions :
